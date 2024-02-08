@@ -1,20 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
-import Week1 from './components/week1';
+import saketh from './saketh.jpg';
 
 function App() {
   return (
-    <div className="App">
-     <h1>Hello World!!!!!!</h1><hr></hr>
-     <h4>
-      name: M. Sai Saketh </h4>
-      <h4>R.No: 2211CS010387 </h4>
-      <h4>group: 7A </h4><hr></hr>
-    
-      <Week1/>
-    
+    <div>
+      <header>
+        <h1>Hello World</h1>
+        <p>Name: M.Saketh<br></br>
+        Ht.no:2211CS010387<br></br>
+        Group:7A</p>
+        <hr></hr>
+        <img src={saketh} alt="saketh" />
+        <h2>About Myself</h2>
+        <p>I am Saketh from group 7A,<br></br>
+          I am 18 years old,<br></br>
+          I like reading books,playing sports etc...
+        </p>
+      
+      </header>
     </div>
   );
 }
 
-export default App;
+export default App;
