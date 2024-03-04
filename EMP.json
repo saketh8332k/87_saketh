@@ -1,0 +1,37 @@
+[
+ {
+  "Faculty_Name": " "
+ },
+ {
+  "Faculty_Name": "Dr.G.Nanda Kishore Kumar ",
+  "Code": "MRUE2101T009",
+  "Designation": "Professor & Controller of Examinations "
+ },
+ {
+  "Faculty_Name": "Dr.M.Narayanan ",
+  "Code": "MRUE2209T131",
+  "Designation": "Professor "
+ },
+ {
+  "Faculty_Name": "Dr.P.Rambabu ",
+  "Code": "MRUE2201T066",
+  "Designation": "Professor "
+ },
+ null,
+ {
+  "Faculty_Name": "Dr. T. Phanindra",
+  "Code": "MRUE2211T150 ",
+  "Designation": "Associate Professor"
+ },
+ {
+  "Faculty_Name": "Dr. P. Aurchana  ",
+  "Code": "MRUE2110T053 ",
+  "Designation": "Assistant Professor "
+ },
+ null,
+ {
+  "Faculty_Name": "Mr. M.Gouthamm ",
+  "Code": "MRUE2111T060 ",
+  "Designation": "Assistant Professor "
+ }
+]
