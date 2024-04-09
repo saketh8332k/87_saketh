@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/87_saketh/static/css/main.62dc2b32.css",
-    "main.js": "/87_saketh/static/js/main.9b18d6b0.js",
+    "main.css": "/87_saketh/static/css/main.8f82c106.css",
+    "main.js": "/87_saketh/static/js/main.08195cb6.js",
     "static/js/453.0f8a3f1c.chunk.js": "/87_saketh/static/js/453.0f8a3f1c.chunk.js",
-    "static/media/ClickToCart.jpg": "/87_saketh/static/media/ClickToCart.1fb2a45142658ecee863.jpg",
-    "static/media/statistics.jpg": "/87_saketh/static/media/statistics.5b56f72b1e25c5cb5048.jpg",
+    "static/media/productinfo.jpg": "/87_saketh/static/media/productinfo.89b485f58d4f92ed4140.jpg",
+    "static/media/statistics.jpg": "/87_saketh/static/media/statistics.5956405a1f3c52feae5d.jpg",
+    "static/media/charts.jpg": "/87_saketh/static/media/charts.a70cfc9118e214761eff.jpg",
     "index.html": "/87_saketh/index.html",
-    "main.62dc2b32.css.map": "/87_saketh/static/css/main.62dc2b32.css.map",
-    "main.9b18d6b0.js.map": "/87_saketh/static/js/main.9b18d6b0.js.map",
+    "main.8f82c106.css.map": "/87_saketh/static/css/main.8f82c106.css.map",
+    "main.08195cb6.js.map": "/87_saketh/static/js/main.08195cb6.js.map",
     "453.0f8a3f1c.chunk.js.map": "/87_saketh/static/js/453.0f8a3f1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62dc2b32.css",
-    "static/js/main.9b18d6b0.js"
+    "static/css/main.8f82c106.css",
+    "static/js/main.08195cb6.js"
   ]
 }
