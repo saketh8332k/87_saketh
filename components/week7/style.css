@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+
+.card{
+  margin: auto;
+  padding: auto;
+  font-family: "cursive", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container .card {
+  width: 20rem;
+  height: 20rem;
+  margin: auto;
+  padding: 30px 15px;
+  box-shadow: 10px 5px 20px rgba(255, 255, 255, 0.667);
+  transition: 0.3s ease-in-out;
+  margin-top: 9rem;
+}
+.container .card:hover {
+  height: 36rem;
+}
+.container .card .imgContainer {
+  position: relative;
+  width: 11rem;
+  height: 10rem;
+  top: -60px;
+  left: 10px;
+  z-index: 1;
+  box-shadow: 0 5px 20px rgba(100, 330, 227, 0.2);
+}
+.container .card .imgContainer img {
+  max-width: 100%;
+  border-radius: 14px;
+}
+.container .card .content {
+  position: relative;
+  margin-top: -180px;
+  padding: 2rem 15px;
+  text-align: center;
+  color: #ffffff;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: 0.3s ease-in-out;
+}
+.container .card:hover .content {
+  visibility: visible;
+  opacity: 1;
+  margin-top: -40px;
+  transition-delay: 0.3s;
+}
+
+@media (max-width: 330px) {
+  .container .card .imgContainer {
+    left: 20px;
+  }
+}
+.container {
+  margin: auto;
+  width: 80%;
+}

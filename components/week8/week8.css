@@ -1,0 +1,33 @@
+.container {
+
+    place-items: center;
+
+    background-color: beige;
+    border: 5px solid black;
+    width: 50%;
+    padding-bottom: 20px;
+    margin-top: 200px;
+    border-radius: 50px;
+    /* margin: auto; */
+}
+
+    
+.toast-container {
+  .Toastify__toast {
+    font-family: Arial, sans-serif;
+  }
+
+  .Toastify__toast--success {
+    background:green;
+  }
+
+  .Toastify__toast--error {
+    background: #d9534f;
+  }
+
+  .Toastify__close-button {
+    color: #fff;
+  }
+}
+  
+  
